@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Pay"],{"5ca9":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("支付")])},u=[],c={data:function(){return{}}},r=c,l=e("2877"),i=Object(l["a"])(r,a,u,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=Pay.4c2bb58e.js.map
